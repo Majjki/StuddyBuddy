@@ -1,0 +1,10 @@
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\bin\Debug\StuddyBuddy.exe.config
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\bin\Debug\StuddyBuddy.exe
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\bin\Debug\StuddyBuddy.pdb
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.csprojResolveAssemblyReference.cache
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.Form1.resources
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.Properties.Resources.resources
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.csproj.GenerateResource.Cache
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.csproj.CoreCompileInputs.cache
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.exe
+A:\projects\StudyBuddy\StuddyBuddy\StuddyBuddy\obj\Debug\StuddyBuddy.pdb
